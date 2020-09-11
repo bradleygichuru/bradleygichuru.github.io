@@ -1,0 +1,19 @@
+{
+  "name": "p0rtfolio",
+  "version": "1.0.0",
+  "description": "my portfolio site ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/bradleygichuru/p0rtfolio.git"
+  },
+  "author": "bradleygichuru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/bradleygichuru/p0rtfolio/issues"
+  },
+  "homepage": "https://gitlab.com/bradleygichuru/p0rtfolio#readme"
+}
